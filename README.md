@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AymanMezghani
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning ros2
-- 💞️ I’m looking to collaborate on fun prohects for learning purposes
+- 💞️ I’m looking to collaborate on fun projects for learning purposes
 - 📫 How to reach me email aymanmezghani@yahoo.fr
 
 <!---
